@@ -1,0 +1,11 @@
+{
+  "domain": "mykid",
+  "name": "MyKid Calendar Integration",
+  "version": "1.0.0",
+  "documentation": "https://github.com/swedan333/mykid",
+  "requirements": ["requests>=2.25.1"],
+  "dependencies": ["calendar"],
+  "codeowners": ["@swedan333"],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}

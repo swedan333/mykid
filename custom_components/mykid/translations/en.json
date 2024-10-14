@@ -1,0 +1,26 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Set up MyKid Integration",
+        "data": {
+          "phone": "Phone Number",
+          "password": "Password"
+        }
+      },
+      "calendar": {
+        "title": "Select Calendar",
+        "data": {
+          "calendar": "Calendar Entity"
+        }
+      }
+    },
+    "error": {
+      "auth": "Invalid username or password",
+      "no_calendars": "No calendars available in Home Assistant"
+    },
+    "abort": {
+      "already_configured": "This phone number is already configured"
+    }
+  }
+}

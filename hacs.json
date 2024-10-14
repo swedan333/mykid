@@ -1,0 +1,14 @@
+{
+  "name": "MyKid Calendar Integration",
+  "render_readme": true,
+  "domain": "mykid",
+  "country": "NO",
+  "version": "1.0.0",
+  "maintainers": [
+    {
+      "name": "Dan Einarsson",
+      "email": "dan.einarsson@gmail.com",
+      "github": "swedan333"
+    }
+  ]
+}
